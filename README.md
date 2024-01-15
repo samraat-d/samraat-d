@@ -1,7 +1,17 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI" width="100"/>
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/samraat-dabolay24/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=samraat-d&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 <!--
 **samraat-d/samraat-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
